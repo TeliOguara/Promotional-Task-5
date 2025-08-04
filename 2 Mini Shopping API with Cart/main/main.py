@@ -8,7 +8,7 @@ app = FastAPI()
 products = [
     {"id": 1, "name": "Laptop", "price": 599.99},
     {"id": 2, "name": "Smartphone", "price": 399.49},
-    {"id": 3, "name": "Headphones", "price": 99.90},
+    {"id": 3, "name": "Smart TV", "price": 99.90},
 ]
 
 @app.get("/products/")

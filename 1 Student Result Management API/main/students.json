@@ -1,1 +1,22 @@
-[]
+[
+    {
+        "name": "John",
+        "subject_scores": {
+            "Math": 90.0,
+            "English": 80.0,
+            "Science": 70.0
+        },
+        "average": 80.0,
+        "grade": "A"
+    },
+    {
+        "name": "Mary",
+        "subject_scores": {
+            "Math": 70.0,
+            "English": 98.0,
+            "Science": 57.0
+        },
+        "average": 75.0,
+        "grade": "A"
+    }
+]
